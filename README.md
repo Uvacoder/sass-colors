@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://github.com/yonycalsin/sass-colors" target="blank"><img src="https://i.ibb.co/b596wMs/sass-colors.png" width="120" alt="Sass-colors Logo" /></a>
 </p>
-
+-
 <p align="center">
 🎨 Sass-colors 🌐 is a scss library, which adds modern colors.
 </p>
